@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\nMedian age has a positive effect on the number of crime\n",
+    "T_STAT": "\nwhen null hypotesis considering 0 as coefficient, 1.82 = coef / std_err (8197.1697 / 4503.049)\n",
+    "P_VALUE": "\np-value = proba that what you obeserved is just due to pure chance. \n0.128 means that 12.8% of the results is due to chance. So its not statistically significant at the 95% confidence level and same at 90% confidence level.\n",
+    "INCREASE": "\nHolding all the other regressors constant, if the share of families with married couple increase 1%, the total number of incidents is likely to decrease 2115.1839 with 95% confidence \n",
+    "LIMITATIONS": "\nlain limitation is, I think, the high correlation between the features.\n"
+}
